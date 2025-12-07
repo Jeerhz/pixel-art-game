@@ -7,20 +7,18 @@ interface CreditsScreenProps {
 }
 
 const CREDITS = [
-  { role: "A MISTRAL INCIDENT", name: "" },
+  { role: "The MISTRAL AIncident", name: "" },
   { role: "", name: "" },
-  { role: "STORY & NARRATIVE DESIGN", name: "The Interrogation Team" },
+  { role: "STORY & NARRATIVE DESIGN", name: "Adle Ben Salem" },
   { role: "CODE & DEVELOPMENT", name: "Next.js & React" },
-  { role: "ART DIRECTION", name: "Pixel Noir Studios" },
-  { role: "MUSIC & SOUND", name: "Web Audio API" },
+  { role: "ART DIRECTION", name: "Mistral Artistic Direction" },
+  { role: "MUSIC & SOUND", name: "Mistral AI Compositor" },
   { role: "AI DIALOGUE MODEL", name: "Mistral AI" },
   { role: "", name: "" },
   { role: "SPECIAL THANKS", name: "" },
   { role: "", name: "To all the engineers who dream" },
   { role: "", name: "of creating something truly alive." },
   { role: "", name: "" },
-  { role: "", name: "And to Lola..." },
-  { role: "", name: "who loved too deeply." },
 ];
 
 export function CreditsScreen({ onComplete }: CreditsScreenProps) {
