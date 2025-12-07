@@ -1,6 +1,7 @@
 # The Mistral AIncident
 
 A noir-style detective interrogation game powered by Mistral AI.
+![Title Screen](./public/Title-screen.png)
 
 ## About
 
@@ -37,6 +38,8 @@ You are investigating a theft at Mistral AI headquarters. The company's latest m
    \`\`\`
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+![Interrogation Screen](./public/Interrogation-Page.png)
 
 ## How to Play
 
