@@ -26,19 +26,19 @@ You are investigating a theft at Mistral AI headquarters. The company's latest m
 ## Getting Started
 
 1. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
-2. Add your Mistral API key to environment variables:
-   \`\`\`
+2. In the same folder as the .env.example file, create a .env.local file and add your Mistral API key to environment variables:
+   ```
    MISTRAL_API_KEY=your_key_here
-   \`\`\`
+   ```
 
 3. Run the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
